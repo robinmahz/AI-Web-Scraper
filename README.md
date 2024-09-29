@@ -56,6 +56,7 @@ Make sure you have the required Python libraries installed. You can install them
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### Step 4: Running the Application
 
